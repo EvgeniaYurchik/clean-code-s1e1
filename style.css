@@ -57,11 +57,16 @@
   list-style: none;
 }
 
-.chek, .add, .edit, .delete {
+.chek,
+.add,
+.edit,
+.delete {
   outline: none;
 }
 
-.add, .edit, .delete {
+.add,
+.edit,
+.delete {
   background: none;
   border: 0px;
   color: #888;
@@ -71,7 +76,9 @@
   cursor: pointer;
 }
 
-.add:hover, .edit:hover, .delete:hover {
+.add:hover,
+.edit:hover,
+.delete:hover {
   color: #3a3A3a;
 }
 
